@@ -156,7 +156,6 @@
       <DependentUpon>Resources.resx</DependentUpon>
       <DesignTime>True</DesignTime>
     </Compile>
-    <None Include="ClassDiagram1.cd" />
     <None Include="meyer3jsDBConnection.xsc">
       <DependentUpon>meyer3jsDBConnection.xsd</DependentUpon>
       <SubType>Designer</SubType>

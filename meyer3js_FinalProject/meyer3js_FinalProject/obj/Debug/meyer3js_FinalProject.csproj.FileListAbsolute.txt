@@ -58,7 +58,6 @@ C:\Users\meyer3js\Source\Repos\CSharp-navGUI\meyer3js_FinalProject\meyer3js_Fina
 C:\Users\meyer3js\Source\Repos\CSharp-navGUI\meyer3js_FinalProject\meyer3js_FinalProject\obj\Debug\meyer3js_FinalProject.pdb
 C:\Users\meyer3js\Source\Repos\CSharp-navGUI\meyer3js_FinalProject\meyer3js_FinalProject\bin\Debug\meyer3js_FinalProject.exe
 C:\Users\meyer3js\Source\Repos\CSharp-navGUI\meyer3js_FinalProject\meyer3js_FinalProject\bin\Debug\meyer3js_FinalProject.pdb
-C:\Users\meyer3js\Source\Repos\CSharp-navGUI\meyer3js_FinalProject\meyer3js_FinalProject\obj\Debug\meyer3js_FinalProject.csprojResolveAssemblyReference.cache
 C:\Users\meyer3js\Source\Repos\CSharp-navGUI\meyer3js_FinalProject\meyer3js_FinalProject\obj\Debug\meyer3js_FinalProject.fAddress.resources
 C:\Users\meyer3js\Source\Repos\CSharp-navGUI\meyer3js_FinalProject\meyer3js_FinalProject\obj\Debug\meyer3js_FinalProject.fCityName.resources
 C:\Users\meyer3js\Source\Repos\CSharp-navGUI\meyer3js_FinalProject\meyer3js_FinalProject\obj\Debug\meyer3js_FinalProject.fCityResults.resources
