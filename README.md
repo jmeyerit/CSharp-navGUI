@@ -1,8 +1,6 @@
 # CSharp-navGUI
 C# Final Project for my Contemporary Programming class that simulates the functionality of a Toyota Sienna's GUI
 
-Final project for my Contemporary Programming class in C#
-
 READ FIRST: This project relies on a Microsoft SQL Server database instance in order to function correctly.
 
 Steps to build the database:
